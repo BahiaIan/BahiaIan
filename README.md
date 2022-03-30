@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @BahiaIan
 
-👀 I’m interested in React Native, React
-🔭 I am currently studying at UTFPR - Software Engineering
-💻 I am currently working with Angular 12, Flutter, Java, Quarkus
-🌱 I’m currently learning HTML, CSS, JavaScript, NoSQL, JAVA, Node, C#
-📫 How to reach me: ... https://www.linkedin.com/in/ian-carlos-rocha-lima-a9193513b
+- 👀 I’m interested in React Native, React
+- 🔭 I am currently studying at UTFPR - Software Engineering
+- 💻 I am currently working with Angular 12, Flutter, Java, Quarkus
+- 🌱 I’m currently learning HTML, CSS, JavaScript, NoSQL, JAVA, Node, C#
+- 📫 How to reach me: ... https://www.linkedin.com/in/ian-carlos-rocha-lima-a9193513b
 
 <!---
 BahiaIan/BahiaIan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
