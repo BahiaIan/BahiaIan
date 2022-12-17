@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in React Native, React
 - 🔭 I am currently studying at UTFPR - Software Engineering
-- 💻 I am currently working with Angular 12, Flutter, Java, Quarkus
+- 💻 I am currently working with Angular 2+, Flutter, Java, Quarkus
 - 🌱 I’m currently learning React Native, Node.js, React
 - 📫 How to reach me: ... https://www.linkedin.com/in/ian-carlos-rocha-lima-a9193513b
 
