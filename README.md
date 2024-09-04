@@ -5,10 +5,6 @@
 
 - 🌱 I’m currently learning **Docker and other Devops tools, Machine learning and more about game develop**
 
-- 👨‍💻 All of my projects are available at [SOON](SOON)
-
-- 📝 I regularly write articles on [SOON](SOON)
-
 - 📫 How to reach me **rochaiancarlos@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/ian-carlos-rocha-lima-a9193513b/](https://www.linkedin.com/in/ian-carlos-rocha-lima-a9193513b/)
